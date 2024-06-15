@@ -1,4 +1,5 @@
-# Network Traffic Analysis with IP Anonymization and Clustering
+# Network Traffic Analysis and Clustering
+Analysing network traffic securely with IP anonymization and clustering using Python and machine learning techniques
 
 **Overview:**
 - Captured network traffic using Wireshark and saved it in .pcap format.
